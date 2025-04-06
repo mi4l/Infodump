@@ -1,2 +1,8 @@
 - https://github.blog/engineering/architecture-optimization/how-we-use-web-components-at-github/
 - https://github.blog/engineering/user-experience/considerations-for-making-a-tree-view-component-accessible/
+- https://stripe.com/blog/migrating-to-typescript
+- https://medium.com/airtable-eng/the-continual-evolution-of-airtables-codebase-migrating-a-million-lines-of-code-to-typescript-612c008baf5c
+- https://medium.com/@michaelsholty/migrating-500k-lines-of-flow-code-to-typescript-15a8cad43fec
+- https://stripe.com/blog/connect-front-end-experience
+- https://medium.com/airbnb-engineering/tagged/front-end-development
+- https://medium.com/airbnb-engineering/rearchitecting-airbnbs-frontend-5e213efc24d2
